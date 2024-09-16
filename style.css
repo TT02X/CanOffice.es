@@ -1,0 +1,198 @@
+a.none {
+    text-decoration: none;
+    color: #000;
+    text-emphasis:inherit;
+}
+
+.colorbo {
+    background-color: #ECF2EF;
+    /* padding-top: ;
+    padding-bottom: ;
+    padding-left: ;
+    padding-right: ; */
+}
+
+.cuerpo1 {
+    /* padding: 3%; */
+    border: #ffff 1px solid;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    background-color: #ffff;
+}
+
+.descrip {
+    font-size: large;
+}
+
+.marginbody {
+    padding: 2%;
+    background-color: #ECF2EF;
+}
+
+.contenedorgrid {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-auto-rows: 150px;
+    padding: 10px;
+    justify-content: center;
+}
+
+
+
+.gitem1,
+.gitem2,
+.gitem3,
+.gitem4,
+.gitem5,
+.gitem6 {
+    box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+    border: 1px solid #ccc;
+    /* padding: 20px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: end;
+    font-size: large;
+}
+
+.gitem1:hover {
+    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    transform: scale(1.15);
+}
+
+.gitem2:hover {
+    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    transform: scale(1.15);
+}
+
+.gitem3:hover {
+    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    transform: scale(1.15);
+}
+
+.gitem4:hover {
+    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    transform: scale(1.15);
+}
+
+.gitem5:hover {
+    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    transform: scale(1.15);
+}
+
+.gitem6:hover {
+    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+    transform: scale(1.15);
+}
+.gitem1{
+    background-image: url(/imagenes/fotosarticulos/ordenadores-copilot-pc-windows-11-ia.jpeg);
+    background-size: contain;
+    background-attachment: cover;
+    opacity: .8;
+}
+.gitem2{
+    background-image: url(/imagenes/fotosarticulos/marca-celular-xiaomi.webp);
+    background-size: contain;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    opacity: .8;
+}
+.gitem3{
+    background-image: url(/imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg);
+    background-size: contain; 
+    background-repeat: no-repeat;  
+    background-position: center;
+    opacity: .8;
+    /* background-size: cover; */
+}
+.gitem4{
+    background-image: url(/imagenes/fotosarticulos/images.jpeg);
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    background-size: 75%;
+     background-position: center;
+    opacity: .8;
+}
+.gitem5{
+    background-image: url(/imagenes/fotosarticulos/167750g.webp);
+    /* background-size: contain; */
+    background-repeat: no-repeat;
+    background-size: 75%;
+     background-position: center;
+    opacity: .8;
+}
+.gitem6{
+    background-image: url(/imagenes/fotosarticulos/liderpapel-material-escolar.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-size: 75%; */
+     background-position: center;
+    opacity: .8;
+}
+
+.contienegrids{
+    display: grid;
+    gap: 10px;  
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-auto-rows: 300px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.cuerpo2 {
+    /* padding: 3%; */
+    border: #ffff 1px solid;
+    border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    background-color: #ffff;
+    margin-top: 40px ;
+}
+.gtem1,
+.gtem2,
+.gtem3,
+.gtem4,
+.gtem5,
+.gtem6 {
+    /* border: solid #fff 1px; */
+    border-radius: 5%;
+    box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+    border: 1px solid #ccc;
+    /* padding: 20px; */
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    align-items: end;
+    font-size: large;
+
+}
+.imgcover{
+    object-fit: cover   ;
+    width: fit-content  ;
+    height:100%;
+}
+.cardimg{
+    background-image: url(/imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg);
+    background-size: contain; 
+    background-repeat: no-repeat;  
+    background-position: center;
+    /* opacity: .8; */
+}

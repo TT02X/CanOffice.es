@@ -1,0 +1,15 @@
+14/09/2024
+horas trabajadas: 2hrs 24min:
+En cuanto a la página desarrollada:
+Se desarrollo la barra de navegación de la nueva página web, establenciendo en ella el logo, junto con una dropbar, que en su interior contiene ciertas categorías. Las mismas tienen unos links que te dirigen a las distintas tiendas (que son dos: papelería y tecnología). En esas tiendas decidimos colocar algunas clasificaciones para orientar al usuario hacia su objetivo principal. Por consiguiente ideamos la manera de objetar un carrusel de imagenes que posee cierta publicidad para orientar y difundir ciertas novedades al receptor de la información, de la página web.
+
+Observaciones en cuanto a las dos páginas unidas:
+
+ComercialAv: Presenciamos un error en la sidebar. Al aplicar el hover o pasar con cursor encima de las mismas categorías se expanden. Pero estas no vuelven a su sitio, al sacar el ratón del objetivo de la categoría. Estorbando y tapando el carrusel en el que se encuentran las publicidades. Precisando la actualización de la web para poder ver de nuevo las imagenes. 
+Luego notamos un error en la navbar. Cuando clickeamos los disitntos apartados de la misma podemos observar que nos redirige a la misma página web llamada "ordenadores". Esto pasa tanto si apretamos "oficina", "informática", "Conectividad", "dispositivos y accesorios". Pero si vamos a novedades este error no ocurre, como también si elegimos las categorías en la sidebar.
+Siguiendo por la misma línea, visualizamos un fallo en las redes sociales que no te redirigen a las mismas.
+Por último, al finalizar la pagina en el footer localizamos que se utiliza el logo desactualizado.
+
+Comercial del sur:
+En la misma página web pudimos detectar que al clickear el logo de "CanOffice" no nos redirige a la pagina principal o home.
+Para finalizar, visualizamos que el título de la página que aparece en el selector de pestañas, no es el correcto. Otorgando el nombre incorrecto de "cannofice", cuando realmente el nombre publicitario, de razón social de la empresa es "CanOffice.es" 
