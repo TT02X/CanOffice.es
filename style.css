@@ -101,20 +101,20 @@ a.none {
     transform: scale(1.15);
 }
 .gitem1{
-    background-image: url("./imagenes/fotosarticulos/ordenadores-copilot-pc-windows-11-ia.jpeg");
+    background-image: url("/imagenes/fotosarticulos/ordenadores-copilot-pc-windows-11-ia.jpeg");
     background-size: contain;
     background-attachment: cover;
     opacity: .8;
 }
 .gitem2{
-    background-image: url("./imagenes/fotosarticulos/marca-celular-xiaomi.webp");
+    background-image: url("/imagenes/fotosarticulos/marca-celular-xiaomi.webp");
     background-size: contain;
     /* background-attachment: fixed; */
     background-repeat: no-repeat;
     opacity: .8;
 }
 .gitem3{
-    background-image: url("./imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg");
+    background-image: url("/imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg");
     background-size: contain; 
     background-repeat: no-repeat;  
     background-position: center;
@@ -122,7 +122,7 @@ a.none {
     /* background-size: cover; */
 }
 .gitem4{
-    background-image: url("./imagenes/fotosarticulos/images.jpeg");
+    background-image: url("/imagenes/fotosarticulos/images.jpeg");
     /* background-size: contain; */
     background-repeat: no-repeat;
     background-size: 75%;
@@ -130,7 +130,7 @@ a.none {
     opacity: .8;
 }
 .gitem5{
-    background-image: url("./imagenes/fotosarticulos/167750g.webp");
+    background-image: url("/imagenes/fotosarticulos/167750g.webp");
     /* background-size: contain; */
     background-repeat: no-repeat;
     background-size: 75%;
@@ -138,7 +138,7 @@ a.none {
     opacity: .8;
 }
 .gitem6{
-    background-image: url("./imagenes/fotosarticulos/liderpapel-material-escolar.jpg");
+    background-image: url("/imagenes/fotosarticulos/liderpapel-material-escolar.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     /* background-size: 75%; */
