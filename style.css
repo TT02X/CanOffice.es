@@ -105,6 +105,7 @@ a.none {
     background-size: contain;
     background-attachment: cover;
     opacity: .8;
+    background-repeat: no-repeat;
 }
 .gitem2{
     background-image: url("/imagenes/fotosarticulos/marca-celular-xiaomi.webp");
