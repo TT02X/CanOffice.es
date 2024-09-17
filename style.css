@@ -101,7 +101,7 @@ a.none {
     transform: scale(1.15);
 }
 .gitem1{
-    background-image: url('./imagenes/fotosarticulos/ordenadores-copilot-pc-windows-11-ia.jpeg');
+    background-image: url('/imagenes/fotosarticulos/ordenadores-copilot-pc-windows-11-ia.jpeg');
     background-size: contain;
     background-attachment: cover;
     opacity: .8;
