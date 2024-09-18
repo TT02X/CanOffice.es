@@ -101,7 +101,7 @@ a.none {
     transform: scale(1.15);
 }
 .gitem1{
-    background-image: url("/imagenes/fotosarticulos/ordenadores-copilot-pc-windows-11-ia.jpeg");
+    background-image: url("./imagenes/fotosarticulos/ordenadores-copilot-pc-windows-11-ia.jpeg");
     background-size: cover;
     background-attachment: cover;
     opacity: .8;
@@ -139,7 +139,7 @@ a.none {
     opacity: .8;
 }
 .gitem6{
-    background-image: url("/imagenes/fotosarticulos/liderpapel-material-escolar.jpg");
+    background-image: url("./imagenes/fotosarticulos/liderpapel-material-escolar.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     /* background-size: 75%; */
