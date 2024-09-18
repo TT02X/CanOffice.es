@@ -151,7 +151,7 @@ a.none {
     display: grid;
     gap: 10px;  
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    grid-auto-rows: 300px;
+    grid-template-rows: auto;
     padding: 10px;
     justify-content: center;
 }
@@ -171,14 +171,13 @@ a.none {
 .gtem4,
 .gtem5,
 .gtem6 {
-    /* border: solid #fff 1px; */
+    
     border-radius: 5%;
     box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
     border: 1px solid #ccc;
-    /* padding: 20px; */
-    /* display: flex; */
+    background-color: #ffff;
     align-items: center;
     justify-content: center;
     align-items: end;
@@ -190,11 +189,12 @@ a.none {
     width:max-content ;
     height:90%;
 }
-.cardimg{
+ .cardimg{
     background-image: url(/imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg);
     background-size: contain; 
     background-repeat: no-repeat;  
     background-position: center;
-    
-    /* opacity: .8; */
-}
+     width: 350px;
+    height:  270px; 
+    opacity: 0.9;
+ }
