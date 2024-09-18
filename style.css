@@ -190,7 +190,7 @@ a.none {
     height:90%;
 }
  .cardimg{
-    background-image: url(/imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg);
+    background-image: url("./imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg");
     background-size: contain; 
     background-repeat: no-repeat;  
     background-position: center;
