@@ -102,7 +102,7 @@ a.none {
 }
 .gitem1{
     background-image: url("/imagenes/fotosarticulos/ordenadores-copilot-pc-windows-11-ia.jpeg");
-    background-size: contain;
+    background-size: cover;
     background-attachment: cover;
     opacity: .8;
     background-repeat: no-repeat;
@@ -126,7 +126,7 @@ a.none {
     background-image: url("/imagenes/fotosarticulos/images.jpeg");
     /* background-size: contain; */
     background-repeat: no-repeat;
-    background-size: 75%;
+    background-size: 65%;
      background-position: center;
     opacity: .8;
 }
@@ -140,7 +140,7 @@ a.none {
 }
 .gitem6{
     background-image: url("/imagenes/fotosarticulos/liderpapel-material-escolar.jpg");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     /* background-size: 75%; */
      background-position: center;
@@ -187,13 +187,14 @@ a.none {
 }
 .imgcover{
     object-fit: cover   ;
-    width: fit-content  ;
-    height:100%;
+    width:max-content ;
+    height:90%;
 }
 .cardimg{
     background-image: url(/imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg);
     background-size: contain; 
     background-repeat: no-repeat;  
     background-position: center;
+    
     /* opacity: .8; */
 }
