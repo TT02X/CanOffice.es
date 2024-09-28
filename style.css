@@ -1,3 +1,4 @@
+
 a.none {
     text-decoration: none;
     color: #000;
@@ -20,6 +21,10 @@ a.none {
     -moz-border-radius: 10px 10px 10px 10px;
     background-color: #ffff;
 }
+.publicarrusel{
+  width: 70%;
+}
+
 
 .descrip {
     font-size: large;
@@ -170,7 +175,14 @@ a.none {
 .gtem3,
 .gtem4,
 .gtem5,
-.gtem6 {
+.gtem6,
+.gtem7,
+.gtem8,
+.gtem9,
+.gtem10,
+.gtem11,
+.gtem12,
+.gtem13 {
     
     border-radius: 5%;
     box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
@@ -190,14 +202,167 @@ a.none {
     height:90%;
 }
  .cardimg{
-    background-image: url(/imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg);
+    background-image: url("./imagenes/fotoscards/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg");
     background-size: contain; 
     background-repeat: no-repeat;  
     background-position: center;
-     width: 350px;
+     width: 100%;
     height:  270px; 
     opacity: 0.9;
+    margin: 10px;
+    
  }
+ 
+
+ .cardimg2{
+  background-image: url("./imagenes/fotoscards/portatil-dell-vostro-3520-i7-1255u-8gb-ssd512gb-156-fhd-w11home.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+.cardimg3{
+  background-image: url("./imagenes/fotoscards/pack-tpv-avpos-k5000-15-tactil-intel-n100-8gb-ssd128g-w11p-tc15-usb-lan.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+.cardimg4{
+  background-image: url("./imagenes/fotoscards/tablet-lenovo-p11-g2-115-2k-4gb-128gb-mediatek-g99-pen-grey.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+ .cardimg5{
+  background-image: url("./imagenes/fotoscards/impresora-hp-deskjet-multifuncion-envy-6020e-color-wifi-white.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+.cardimg6{
+  background-image: url("./imagenes/fotoscards/ordenador-gaming-msi-m100a-rgb-i7-13700k-16gb-ssd1tb-nvme-refliq-950w-w11p.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+.cardimg7{
+  background-image: url("./imagenes/fotoscards/tpv-avpos-k6000-15-tactil-i5-8gb-ssd128gb-w11p-imppresora-2-pantalla-3yr.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+.cardimg8{
+  background-image: url("./imagenes/fotoscards/tablet-samsung-11-tab-a9-smx210-4gb-64gb-android-silver.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+.cardimg9{
+  background-image: url("./imagenes/fotoscards/impresora-hp-multifuncion-2820e-color-wifi-white.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+.cardimg10{
+  background-image: url("./imagenes/fotoscards/portatil-asus-zenbook-s-ultra-7-155u-16gb-ssd512gb-133-oled-w11home.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+.cardimg11{
+  background-image: url("./imagenes/fotoscards/tpv-avpos-k4000-slim-15-tactil-j4125-4gb-ssd128gb-w11p-3yr-garantia.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+.cardimg12{
+  background-image: url("./imagenes/fotoscards/tablet-lenovo-tab-m11-11-4gb-128gb-helio-g88-grey-s-pen.jpg");
+  background-size: contain; 
+  background-repeat: no-repeat;  
+  background-position: center;
+   width: 100%;
+  height:  270px; 
+  opacity: 0.9;
+  margin: 10px;
+}
+@media (max-width: 1300px) { 
+  .cardimg { 
+      width: 85%;
+  }
+  .cardimg2 { 
+    width: 85%;
+}
+.cardimg3 { 
+  width: 85%;
+}
+.cardimg4 { 
+  width: 85%;
+}
+.cardimg5 { 
+  width: 85%;
+}
+.cardimg6 { 
+  width: 85%;
+}
+.cardimg7 { 
+  width: 85%;
+}
+.cardimg8 { 
+  width: 85%;
+}
+.cardimg9 { 
+  width: 85%;
+}
+.cardimg10 { 
+  width: 85%;
+}
+.cardimg11 { 
+  width: 85%;
+}
+.cardimg12 { 
+  width: 85%;
+}
+
+}
  .footer {
     background-color: #24262b;
     padding: 70px 0;
@@ -282,3 +447,150 @@ a.none {
       padding: 0 15px;
     }
   }
+  .precio{
+   font-size: larger;
+   color: #C1BDFD;
+   /* border: #dbdcff 1px solid;
+   border-radius: 5%; */
+   /* margin-top: 0%; */
+   margin: 15%;
+  }
+  .gtem1:hover .cardimg {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black2.jpg");
+    width: 100%;
+    height:  270px;
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem2:hover .cardimg2 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/portatil-dell-vostro-3520-i7-1255u-8gb-ssd512gb-156-fhd-w11home\ 2.jpg");
+    width: 100%;
+    height:  270px;
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem3:hover .cardimg3 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/tpv-avpos-k5000-aluminio-15-tactil-intel-n100-8gb-ssd128gb-3yr-garantia.jpg");
+    width: 100%;
+    height:  270px;
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem4:hover .cardimg4 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/tablet-lenovo-p11-g2-115-2k-4gb-128gb-mediatek-g99-pen-grey2.jpg");
+    width: 100%;
+    height:  270px;
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem5:hover .cardimg5 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/impresora-hp-deskjet-multifuncion-envy-6020e-color-wifi-white2.jpg");
+    width: 100%;
+    height:  270px;
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem6:hover .cardimg6 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/ordenador-gaming-msi-m100a-rgb-i7-13700k-16gb-ssd1tb-nvme-refliq-950w-w11p2.jpg");
+    width: 100%;
+    height:  270px;
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem7:hover .cardimg7 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/tpv-avpos-k6000-15-tactil-i5-8gb-ssd128gb-w11p-imppresora-2-pantalla-3yr2.jpg");
+    width: 100%;
+    height:  270px;
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem8:hover .cardimg8 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/tablet-samsung-11-tab-a9-smx210-4gb-64gb-android-silver2.jpg");
+    width: 100%;
+    height:  270px;
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem9:hover .cardimg9 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/impresora-hp-desCRIPCION-multifuncion-2820e-color-wifi-white.jpg");
+    scale: (1.15);
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem10:hover .cardimg10 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/portatil-asus-zenbook-s-ultra-7-155u-16gb-ssd512gb-133-oled-w11home2.jpg");
+    scale: (1.15);
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem11:hover .cardimg11 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/tpv-avpos-k4000-slim-15-tactil-j4125-4gb-ssd128gb-w11p-3yr-garantia2.jpg");
+    scale: (1.15);
+    @media (max-width: 1300px){
+      width: 85%;
+    }
+  }
+  .gtem12:hover .cardimg12 {
+    transform: translateY(  10px);
+    transition: 300ms;
+    filter: none;
+    background-image: url("./imagenes/fotoscards/tablet-lenovo-tab-m11-11-4gb-128gb-helio-g88-grey-s-pen2.jpg");
+    scale: (1.15);
+    @media (max-width: 1300px){
+      width: 85%;
+    } 
+  }
+
+.vermas{
+  margin: 5px;
+  background-color: #C1BDFD;
+  border: #C1BDFD 1px solid;
+  border-radius: 5%;
+  color: #ffff;
+}
+.producthr{
+  color: #C1BDFD;
+}
