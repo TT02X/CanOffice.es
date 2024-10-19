@@ -1,6 +1,0 @@
-<img src="/imagenes/imagenes publicidad/B2C_06.jpg" class="d-block w-100" alt="bannner3">
-<img src="/imagenes/imagenes publicidad/B2C_04.jpg" class="d-block w-100" alt="banner2">
- <img src="/imagenes/imagenes publicidad/B2C_03.jpg" class="d-block w-100" alt="banner1">
- presentacion
- mobiliario 
- escolar

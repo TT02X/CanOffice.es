@@ -1,47 +1,47 @@
-
 a.none {
-    text-decoration: none;
-    color: #000;
-    text-emphasis:inherit;
+  text-decoration: none;
+  color: #000;
+  text-emphasis: inherit;
 }
 
 .colorbo {
-    background-color: #ECF2EF;
-    /* padding-top: ;
+  background-color: #ECF2EF;
+  /* padding-top: ;
     padding-bottom: ;
     padding-left: ;
     padding-right: ; */
 }
 
 .cuerpo1 {
-    /* padding: 3%; */
-    border: #ffff 1px solid;
-    border-radius: 10px 10px 10px 10px;
-    -webkit-border-radius: 10px 10px 10px 10px;
-    -moz-border-radius: 10px 10px 10px 10px;
-    background-color: #ffff;
+  /* padding: 3%; */
+  border: #ffff 1px solid;
+  border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  background-color: #ffff;
 }
-.publicarrusel{
+
+.publicarrusel {
   width: 70%;
 }
 
 
 .descrip {
-    font-size: large;
+  font-size: large;
 }
 
 .marginbody {
-    padding: 2%;
-    background-color: #ECF2EF;
+  padding: 2%;
+  background-color: #ECF2EF;
 }
 
 .contenedorgrid {
-    display: grid;
-    gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    grid-auto-rows: 150px;
-    padding: 10px;
-    justify-content: center;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-auto-rows: 150px;
+  padding: 10px;
+  justify-content: center;
 }
 
 
@@ -52,124 +52,131 @@ a.none {
 .gitem4,
 .gitem5,
 .gitem6 {
-    box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
-    -webkit-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
-    border: 1px solid #ccc;
-    /* padding: 20px; */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    align-items: end;
-    font-size: large;
+  box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+  border: 1px solid #ccc;
+  /* padding: 20px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: end;
+  font-size: large;
 }
 
 .gitem1:hover {
-    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    transform: scale(1.15);
+  box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  transform: scale(1.15);
 }
 
 .gitem2:hover {
-    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    transform: scale(1.15);
+  box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  transform: scale(1.15);
 }
 
 .gitem3:hover {
-    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    transform: scale(1.15);
+  box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  transform: scale(1.15);
 }
 
 .gitem4:hover {
-    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    transform: scale(1.15);
+  box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  transform: scale(1.15);
 }
 
 .gitem5:hover {
-    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    transform: scale(1.15);
+  box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  transform: scale(1.15);
 }
 
 .gitem6:hover {
-    box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
-    transform: scale(1.15);
-}
-.gitem1{
-    background-image: url("./imagenes/fotosarticulos/ordenadores-copilot-pc-windows-11-ia.jpeg");
-    background-size: cover;
-    background-attachment: cover;
-    opacity: .8;
-    background-repeat: no-repeat;
-}
-.gitem2{
-    background-image: url("./imagenes/fotosarticulos/marca-celular-xiaomi.webp");
-    background-size: contain;
-    /* background-attachment: fixed; */
-    background-repeat: no-repeat;
-    opacity: .8;
-}
-.gitem3{
-    background-image: url("./imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg");
-    background-size: contain; 
-    background-repeat: no-repeat;  
-    background-position: center;
-    opacity: .8;
-    /* background-size: cover; */
-}
-.gitem4{
-    background-image: url("./imagenes/fotosarticulos/images.jpeg");
-    /* background-size: contain; */
-    background-repeat: no-repeat;
-    background-size: 65%;
-     background-position: center;
-    opacity: .8;
-}
-.gitem5{
-    background-image: url("./imagenes/fotosarticulos/167750g.webp");
-    /* background-size: contain; */
-    background-repeat: no-repeat;
-    background-size: 75%;
-     background-position: center;
-    opacity: .8;
-}
-.gitem6{
-    background-image: url("./imagenes/fotosarticulos/liderpapel-material-escolar.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    /* background-size: 75%; */
-     background-position: center;
-    opacity: .8;
+  box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 10px 203px 1px rgba(0, 0, 0, 0.75);
+  transform: scale(1.15);
 }
 
-.contienegrids{
-    display: grid;
-    gap: 10px;  
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    grid-template-rows: auto;
-    padding: 10px;
-    justify-content: center;
+.gitem1 {
+  background-image: url("./imagenes/fotosarticulos/portatil-asus-vivobook-f15-i5-1235u-16gb-ssd512gb-156-fhd-w11pro.jpg");
+  background-size: cover;
+  background-attachment: cover;
+  opacity: .8;
+  background-repeat: no-repeat;
+}
+
+.gitem2 {
+  background-image: url("./imagenes/fotosarticulos/marca-celular-xiaomi.webp");
+  background-size: contain;
+  /* background-attachment: fixed; */
+  background-repeat: no-repeat;
+  opacity: .8;
+}
+
+.gitem3 {
+  background-image: url("./imagenes/fotosarticulos/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: .8;
+  /* background-size: cover; */
+}
+
+.gitem4 {
+  background-image: url("./imagenes/fotosarticulos/images.jpeg");
+  /* background-size: contain; */
+  background-repeat: no-repeat;
+  background-size: 65%;
+  background-position: center;
+  opacity: .8;
+}
+
+.gitem5 {
+  background-image: url("./imagenes/fotosarticulos/167750g.webp");
+  /* background-size: contain; */
+  background-repeat: no-repeat;
+  background-size: 75%;
+  background-position: center;
+  opacity: .8;
+}
+
+.gitem6 {
+  background-image: url("./imagenes/fotosarticulos/tiles-escolares-sobre-fondo-blanco-espacio-libre-texto-vista-superior_97729-5.avif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-size: 75%; */
+  background-position: center;
+  opacity: .8;
+}
+
+.contienegrids {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-rows: auto;
+  padding: 10px;
+  justify-content: center;
 }
 
 .cuerpo2 {
-    /* padding: 3%; */
-    border: #ffff 1px solid;
-    border-radius: 10px 10px 10px 10px;
-    -webkit-border-radius: 10px 10px 10px 10px;
-    -moz-border-radius: 10px 10px 10px 10px;
-    background-color: #ffff;
-    margin-top: 40px ;
+  /* padding: 3%; */
+  border: #ffff 1px solid;
+  border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  background-color: #ffff;
+  margin-top: 40px;
 }
+
 .gtem1,
 .gtem2,
 .gtem3,
@@ -183,414 +190,964 @@ a.none {
 .gtem11,
 .gtem12,
 .gtem13 {
-    
-    border-radius: 5%;
-    box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
-    -webkit-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
-    border: 1px solid #ccc;
-    background-color: #ffff;
-    align-items: center;
-    justify-content: center;
-    align-items: end;
-    font-size: large;
+
+  border-radius: 5%;
+  box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+  border: 1px solid #ccc;
+  background-color: #ffff;
+  align-items: center;
+  justify-content: center;
+  align-items: end;
+  font-size: large;
 
 }
-.imgcover{
-    object-fit: cover   ;
-    width:max-content ;
-    height:90%;
-}
- .cardimg{
-    background-image: url("./imagenes/fotoscards/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg");
-    background-size: contain; 
-    background-repeat: no-repeat;  
-    background-position: center;
-     width: 100%;
-    height:  270px; 
-    opacity: 0.9;
-    margin: 10px;
-    
- }
- 
 
- .cardimg2{
+.imgcover {
+  object-fit: cover;
+  width: max-content;
+  height: 90%;
+}
+
+.cardimg {
+  background-image: url("./imagenes/fotoscards/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black1.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
+
+}
+
+
+.cardimg2 {
   background-image: url("./imagenes/fotoscards/portatil-dell-vostro-3520-i7-1255u-8gb-ssd512gb-156-fhd-w11home.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
-   width: 100%;
-  height:  270px; 
+  width: 100%;
+  height: 270px;
   opacity: 0.9;
   margin: 10px;
-}
-.cardimg3{
-  background-image: url("./imagenes/fotoscards/pack-tpv-avpos-k5000-15-tactil-intel-n100-8gb-ssd128g-w11p-tc15-usb-lan.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
-  background-position: center;
-   width: 100%;
-  height:  270px; 
-  opacity: 0.9;
-  margin: 10px;
-}
-.cardimg4{
-  background-image: url("./imagenes/fotoscards/tablet-lenovo-p11-g2-115-2k-4gb-128gb-mediatek-g99-pen-grey.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
-  background-position: center;
-   width: 100%;
-  height:  270px; 
-  opacity: 0.9;
-  margin: 10px;
-}
- .cardimg5{
-  background-image: url("./imagenes/fotoscards/impresora-hp-deskjet-multifuncion-envy-6020e-color-wifi-white.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
-  background-position: center;
-   width: 100%;
-  height:  270px; 
-  opacity: 0.9;
-  margin: 10px;
-}
-.cardimg6{
-  background-image: url("./imagenes/fotoscards/ordenador-gaming-msi-m100a-rgb-i7-13700k-16gb-ssd1tb-nvme-refliq-950w-w11p.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
-  background-position: center;
-   width: 100%;
-  height:  270px; 
-  opacity: 0.9;
-  margin: 10px;
-}
-.cardimg7{
-  background-image: url("./imagenes/fotoscards/tpv-avpos-k6000-15-tactil-i5-8gb-ssd128gb-w11p-imppresora-2-pantalla-3yr.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
-  background-position: center;
-   width: 100%;
-  height:  270px; 
-  opacity: 0.9;
-  margin: 10px;
-}
-.cardimg8{
-  background-image: url("./imagenes/fotoscards/tablet-samsung-11-tab-a9-smx210-4gb-64gb-android-silver.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
-  background-position: center;
-   width: 100%;
-  height:  270px; 
-  opacity: 0.9;
-  margin: 10px;
-}
-.cardimg9{
-  background-image: url("./imagenes/fotoscards/impresora-hp-multifuncion-2820e-color-wifi-white.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
-  background-position: center;
-   width: 100%;
-  height:  270px; 
-  opacity: 0.9;
-  margin: 10px;
-}
-.cardimg10{
-  background-image: url("./imagenes/fotoscards/portatil-asus-zenbook-s-ultra-7-155u-16gb-ssd512gb-133-oled-w11home.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
-  background-position: center;
-   width: 100%;
-  height:  270px; 
-  opacity: 0.9;
-  margin: 10px;
-}
-.cardimg11{
-  background-image: url("./imagenes/fotoscards/tpv-avpos-k4000-slim-15-tactil-j4125-4gb-ssd128gb-w11p-3yr-garantia.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
-  background-position: center;
-   width: 100%;
-  height:  270px; 
-  opacity: 0.9;
-  margin: 10px;
-}
-.cardimg12{
-  background-image: url("./imagenes/fotoscards/tablet-lenovo-tab-m11-11-4gb-128gb-helio-g88-grey-s-pen.jpg");
-  background-size: contain; 
-  background-repeat: no-repeat;  
-  background-position: center;
-   width: 100%;
-  height:  270px; 
-  opacity: 0.9;
-  margin: 10px;
-}
-@media (max-width: 1300px) { 
-  .cardimg { 
-      width: 85%;
-  }
-  .cardimg2 { 
-    width: 85%;
-}
-.cardimg3 { 
-  width: 85%;
-}
-.cardimg4 { 
-  width: 85%;
-}
-.cardimg5 { 
-  width: 85%;
-}
-.cardimg6 { 
-  width: 85%;
-}
-.cardimg7 { 
-  width: 85%;
-}
-.cardimg8 { 
-  width: 85%;
-}
-.cardimg9 { 
-  width: 85%;
-}
-.cardimg10 { 
-  width: 85%;
-}
-.cardimg11 { 
-  width: 85%;
-}
-.cardimg12 { 
-  width: 85%;
 }
 
+.cardimg3 {
+  background-image: url("./imagenes/fotoscards/pack-tpv-avpos-k5000-15-tactil-intel-n100-8gb-ssd128g-w11p-tc15-usb-lan.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
 }
- .footer {
-    background-color: #24262b;
-    padding: 70px 0;
+
+.cardimg4 {
+  background-image: url("./imagenes/fotoscards/tablet-lenovo-p11-g2-115-2k-4gb-128gb-mediatek-g99-pen-grey.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimg5 {
+  background-image: url("./imagenes/fotoscards/impresora-hp-deskjet-multifuncion-envy-6020e-color-wifi-white.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimg6 {
+  background-image: url("./imagenes/fotoscards/ordenador-gaming-msi-m100a-rgb-i7-13700k-16gb-ssd1tb-nvme-refliq-950w-w11p.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimg7 {
+  background-image: url("./imagenes/fotoscards/tpv-avpos-k6000-15-tactil-i5-8gb-ssd128gb-w11p-imppresora-2-pantalla-3yr.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimg8 {
+  background-image: url("./imagenes/fotoscards/tablet-samsung-11-tab-a9-smx210-4gb-64gb-android-silver.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimg9 {
+  background-image: url("./imagenes/fotoscards/impresora-hp-multifuncion-2820e-color-wifi-white.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimg10 {
+  background-image: url("./imagenes/fotoscards/portatil-asus-zenbook-s-ultra-7-155u-16gb-ssd512gb-133-oled-w11home.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimg11 {
+  background-image: url("./imagenes/fotoscards/tpv-avpos-k4000-slim-15-tactil-j4125-4gb-ssd128gb-w11p-3yr-garantia.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimg12 {
+  background-image: url("./imagenes/fotoscards/tablet-lenovo-tab-m11-11-4gb-128gb-helio-g88-grey-s-pen.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 270px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+@media (max-width: 1300px) {
+  .cardimg {
+    width: 85%;
   }
-  .piedepágina{
-    max-width: 1170px;
-    margin: auto;
+
+  .cardimg2 {
+    width: 85%;
   }
-  .row21{
-    display: flex;
-    flex-wrap: wrap;
+
+  .cardimg3 {
+    width: 85%;
   }
-  ul{
-    list-style: none;
+
+  .cardimg4 {
+    width: 85%;
   }
-  .footer-col{
+
+  .cardimg5 {
+    width: 85%;
+  }
+
+  .cardimg6 {
+    width: 85%;
+  }
+
+  .cardimg7 {
+    width: 85%;
+  }
+
+  .cardimg8 {
+    width: 85%;
+  }
+
+  .cardimg9 {
+    width: 85%;
+  }
+
+  .cardimg10 {
+    width: 85%;
+  }
+
+  .cardimg11 {
+    width: 85%;
+  }
+
+  .cardimg12 {
+    width: 85%;
+  }
+
+}
+
+.footer {
+  background-color: #24262b;
+  padding: 70px 0;
+}
+
+.piedepágina {
+  max-width: 1170px;
+  margin: auto;
+}
+
+.row21 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+ul {
+  list-style: none;
+}
+
+.footer-col {
+  width: 25%;
+  padding: 0 15px;
+}
+
+.footer-col p {
+  font-size: 18px;
+  color: #ffffff;
+  text-transform: capitalize;
+  margin-bottom: 30px;
+  font-weight: 500;
+  position: relative;
+}
+
+.footer-col p::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  background-color: #2c0b8b;
+  height: 2px;
+  box-sizing: border-box;
+  width: 50px;
+}
+
+.footer-col ul li:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.footer-col ul li a {
+  font-size: 16px;
+  text-transform: capitalize;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 300;
+  color: #bbbbbb;
+  display: block;
+  transition: all 0.3s ease;
+
+  &:hover {
+    color: #ffffff;
+    padding-left: 8px;
+  }
+}
+
+.footer-col .redes-sociales a {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  background-color: rgba(255, 255, 255, 0.2);
+  margin: 0 10px 10px 0;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 50%;
+  color: #ffffff;
+  transition: all 0.5s ease;
+
+  &:hover {
+    color: #24262b;
+    background-color: #ffffff;
+  }
+}
+
+.footer-col .copyright a {
+  color: #ffffff;
+}
+
+@media(width <=767px) {
+  .footer-col {
     width: 25%;
     padding: 0 15px;
   }
-  .footer-col p{
-    font-size: 18px;
-    color: #ffffff;
-    text-transform: capitalize;
-    margin-bottom: 30px;
-    font-weight: 500;
-    position: relative;
-  }
-  .footer-col p::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -10px;
-    background-color: #2c0b8b;
-    height: 2px;
-    box-sizing: border-box;
-    width: 50px;
-  }
-  .footer-col ul li:not(:last-child){
-    margin-bottom: 10px;
-  }
-  .footer-col ul li a{
-    font-size: 16px;
-    text-transform: capitalize;
-    color: #ffffff;
-    text-decoration: none;
-    font-weight: 300;
-    color: #bbbbbb;
-    display: block;
-    transition: all 0.3s ease;
-      &:hover{
-    color: #ffffff;
-    padding-left: 8px;
-    }
-  }
-  .footer-col .redes-sociales a{
-    display: inline-block;
-    height: 40px;
-    width: 40px;
-    background-color: rgba(255, 255, 255, 0.2);
-    margin: 0 10px 10px 0;
-    text-align: center;
-    line-height: 40px;
-    border-radius: 50%;
-    color: #ffffff;
-    transition: all 0.5s ease;
-      &:hover{
-        color: #24262b;
-        background-color: #ffffff;
-      }
-  }
-  .footer-col .copyright a{
-    color: #ffffff;
-  }
-  
-  @media(width <= 767px){
-    .footer-col{
-      width: 25%;
-      padding: 0 15px;
-    }
-    .copyright a{
-      width: 25;
-      padding: 0 15px;
-    }
-  }
-  .precio{
-   font-size: larger;
-   color: #C1BDFD;
-   /* border: #dbdcff 1px solid;
-   border-radius: 5%; */
-   /* margin-top: 0%; */
-   margin: 15%;
-  }
-  .gtem1:hover .cardimg {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black2.jpg");
-    width: 100%;
-    height:  270px;
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem2:hover .cardimg2 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/portatil-dell-vostro-3520-i7-1255u-8gb-ssd512gb-156-fhd-w11home\ 2.jpg");
-    width: 100%;
-    height:  270px;
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem3:hover .cardimg3 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/tpv-avpos-k5000-aluminio-15-tactil-intel-n100-8gb-ssd128gb-3yr-garantia.jpg");
-    width: 100%;
-    height:  270px;
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem4:hover .cardimg4 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/tablet-lenovo-p11-g2-115-2k-4gb-128gb-mediatek-g99-pen-grey2.jpg");
-    width: 100%;
-    height:  270px;
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem5:hover .cardimg5 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/impresora-hp-deskjet-multifuncion-envy-6020e-color-wifi-white2.jpg");
-    width: 100%;
-    height:  270px;
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem6:hover .cardimg6 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/ordenador-gaming-msi-m100a-rgb-i7-13700k-16gb-ssd1tb-nvme-refliq-950w-w11p2.jpg");
-    width: 100%;
-    height:  270px;
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem7:hover .cardimg7 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/tpv-avpos-k6000-15-tactil-i5-8gb-ssd128gb-w11p-imppresora-2-pantalla-3yr2.jpg");
-    width: 100%;
-    height:  270px;
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem8:hover .cardimg8 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/tablet-samsung-11-tab-a9-smx210-4gb-64gb-android-silver2.jpg");
-    width: 100%;
-    height:  270px;
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem9:hover .cardimg9 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/impresora-hp-desCRIPCION-multifuncion-2820e-color-wifi-white.jpg");
-    scale: (1.15);
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem10:hover .cardimg10 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/portatil-asus-zenbook-s-ultra-7-155u-16gb-ssd512gb-133-oled-w11home2.jpg");
-    scale: (1.15);
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem11:hover .cardimg11 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/tpv-avpos-k4000-slim-15-tactil-j4125-4gb-ssd128gb-w11p-3yr-garantia2.jpg");
-    scale: (1.15);
-    @media (max-width: 1300px){
-      width: 85%;
-    }
-  }
-  .gtem12:hover .cardimg12 {
-    transform: translateY(  10px);
-    transition: 300ms;
-    filter: none;
-    background-image: url("./imagenes/fotoscards/tablet-lenovo-tab-m11-11-4gb-128gb-helio-g88-grey-s-pen2.jpg");
-    scale: (1.15);
-    @media (max-width: 1300px){
-      width: 85%;
-    } 
-  }
 
-.vermas{
+  .copyright a {
+    width: 25;
+    padding: 0 15px;
+  }
+}
+
+.precio {
+  font-size: larger;
+  color: #C1BDFD;
+  /* border: #dbdcff 1px solid;
+   border-radius: 5%; */
+  /* margin-top: 0%; */
+  margin: 15%;
+}
+
+.gtem1:hover .cardimg {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black2.jpg");
+  width: 100%;
+  height: 270px;
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem2:hover .cardimg2 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/portatil-dell-vostro-3520-i7-1255u-8gb-ssd512gb-156-fhd-w11home\ 2.jpg");
+  width: 100%;
+  height: 270px;
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem3:hover .cardimg3 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tpv-avpos-k5000-aluminio-15-tactil-intel-n100-8gb-ssd128gb-3yr-garantia.jpg");
+  width: 100%;
+  height: 270px;
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem4:hover .cardimg4 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tablet-lenovo-p11-g2-115-2k-4gb-128gb-mediatek-g99-pen-grey2.jpg");
+  width: 100%;
+  height: 270px;
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem5:hover .cardimg5 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/impresora-hp-deskjet-multifuncion-envy-6020e-color-wifi-white2.jpg");
+  width: 100%;
+  height: 270px;
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem6:hover .cardimg6 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/ordenador-gaming-msi-m100a-rgb-i7-13700k-16gb-ssd1tb-nvme-refliq-950w-w11p2.jpg");
+  width: 100%;
+  height: 270px;
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem7:hover .cardimg7 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tpv-avpos-k6000-15-tactil-i5-8gb-ssd128gb-w11p-imppresora-2-pantalla-3yr2.jpg");
+  width: 100%;
+  height: 270px;
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem8:hover .cardimg8 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tablet-samsung-11-tab-a9-smx210-4gb-64gb-android-silver2.jpg");
+  width: 100%;
+  height: 270px;
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem9:hover .cardimg9 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/impresora-hp-desCRIPCION-multifuncion-2820e-color-wifi-white.jpg");
+  scale: (1.15);
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem10:hover .cardimg10 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/portatil-asus-zenbook-s-ultra-7-155u-16gb-ssd512gb-133-oled-w11home2.jpg");
+  scale: (1.15);
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem11:hover .cardimg11 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tpv-avpos-k4000-slim-15-tactil-j4125-4gb-ssd128gb-w11p-3yr-garantia2.jpg");
+  scale: (1.15);
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.gtem12:hover .cardimg12 {
+  transform: translateY(10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tablet-lenovo-tab-m11-11-4gb-128gb-helio-g88-grey-s-pen2.jpg");
+  scale: (1.15);
+
+  @media (max-width: 1300px) {
+    width: 85%;
+  }
+}
+
+.vermas {
   margin: 5px;
   background-color: #C1BDFD;
   border: #C1BDFD 1px solid;
   border-radius: 5%;
   color: #ffff;
 }
-.producthr{
+
+.producthr {
   color: #C1BDFD;
+}
+
+/* .cuerpo3 {
+   padding: 3%;   border: #ffff 1px solid;
+  border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  background-color: #ffff;
+  margin: 10% ;
+} */
+
+
+
+
+
+
+
+
+/* papelería */
+
+
+
+.gititem1,
+.gititem2,
+.gititem3,
+.gititem4,
+.gititem5,
+.gititem6,
+.gititem7,
+.gititem8,
+.gititem9,
+.gititem10,
+.gititem11,
+.gititem12,
+.gititem13 {
+
+  border-radius: 5%;
+  box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 12px 10px 203px -54px rgba(0, 0, 0, 0.75);
+  border: 1px solid #ccc;
+  background-color: #ffff;
+  align-items: center;
+  justify-content: center;
+  align-items: end;
+  font-size: large;
+
+}
+
+.imgcover {
+  object-fit: cover;
+  width: max-content;
+  height: 90%;
+}
+
+.contienegrids1 {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-rows: auto;
+  padding: 10px;
+  justify-content: center;
+}
+
+
+
+
+.cardimag {
+  background-image: url("./imagenes/fotoscardspapelería/26354g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+
+}
+
+
+.cardimag2 {
+  background-image: url("./imagenes/fotoscardspapelería/32074g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimag3 {
+  background-image: url("./imagenes/fotoscardspapelería/73962g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimag4 {
+  background-image: url("./imagenes/fotoscardspapelería/43305g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimag5 {
+  background-image: url("./imagenes/fotoscardspapelería/78296g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimag6 {
+  background-image: url("./imagenes/fotoscardspapelería/167746g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimag7 {
+  background-image: url("./imagenes/fotoscardspapelería/77740g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimag8 {
+  background-image: url("./imagenes/fotoscardspapelería/38182g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimag9 {
+  background-image: url("./imagenes/fotoscardspapelería/28329g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimag10 {
+  background-image: url("./imagenes/fotoscardspapelería/28233g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimag11 {
+  background-image: url("./imagenes/fotoscardspapelería/153903g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+.cardimag12 {
+  background-image: url("./imagenes/fotoscardspapelería/156278g.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+  margin: 10px;
+}
+
+@media (max-width: 1300px) {
+  .cardimag {
+    width: 85%;
+  }
+
+  .cardimag2 {
+    width: 85%;
+  }
+
+  .cardimag3 {
+    width: 85%;
+  }
+
+  .cardimag4 {
+    width: 85%;
+  }
+
+  .cardimag5 {
+    width: 85%;
+  }
+
+  .cardimag6 {
+    width: 85%;
+  }
+
+  .cardimag7 {
+    width: 85%;
+  }
+
+  .cardimag8 {
+    width: 85%;
+  }
+
+  .cardimag9 {
+    width: 85%;
+  }
+
+  .cardimag10 {
+    width: 85%;
+  }
+
+  .cardimag11 {
+    width: 85%;
+  }
+
+  .cardimag12 {
+    width: 85%;
+  }
+}
+
+/* .gititem1:hover .cardimag {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/impresora-canon-pixma-tr4750i-mfp-duplex-color-wifi-black2.jpg");
+  width: 100%;
+  height:  270px;
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem2:hover .cardimag2 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/portatil-dell-vostro-3520-i7-1255u-8gb-ssd512gb-156-fhd-w11home\ 2.jpg");
+  width: 100%;
+  height:  270px;
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem3:hover .cardimag3 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tpv-avpos-k5000-aluminio-15-tactil-intel-n100-8gb-ssd128gb-3yr-garantia.jpg");
+  width: 100%;
+  height:  270px;
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem4:hover .cardimag4 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tablet-lenovo-p11-g2-115-2k-4gb-128gb-mediatek-g99-pen-grey2.jpg");
+  width: 100%;
+  height:  270px;
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem5:hover .cardimag5 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/impresora-hp-deskjet-multifuncion-envy-6020e-color-wifi-white2.jpg");
+  width: 100%;
+  height:  270px;
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem6:hover .cardimag6 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/ordenador-gaming-msi-m100a-rgb-i7-13700k-16gb-ssd1tb-nvme-refliq-950w-w11p2.jpg");
+  width: 100%;
+  height:  270px;
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem7:hover .cardimag7 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tpv-avpos-k6000-15-tactil-i5-8gb-ssd128gb-w11p-imppresora-2-pantalla-3yr2.jpg");
+  width: 100%;
+  height:  270px;
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem8:hover .cardimag8 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tablet-samsung-11-tab-a9-smx210-4gb-64gb-android-silver2.jpg");
+  width: 100%;
+  height:  270px;
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem9:hover .cardimag9 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/impresora-hp-desCRIPCION-multifuncion-2820e-color-wifi-white.jpg");
+  scale: (1.15);
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem10:hover .cardimag10 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/portatil-asus-zenbook-s-ultra-7-155u-16gb-ssd512gb-133-oled-w11home2.jpg");
+  scale: (1.15);
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem11:hover .cardimag11 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tpv-avpos-k4000-slim-15-tactil-j4125-4gb-ssd128gb-w11p-3yr-garantia2.jpg");
+  scale: (1.15);
+  @media (max-width: 1300px){
+    width: 85%;
+  }
+}
+.gititem12:hover .cardimag12 {
+  transform: translateY(  10px);
+  transition: 300ms;
+  filter: none;
+  background-image: url("./imagenes/fotoscards/tablet-lenovo-tab-m11-11-4gb-128gb-helio-g88-grey-s-pen2.jpg");
+  scale: (1.15);
+  @media (max-width: 1300px){
+    width: 85%;
+  } 
+} */
+.imagenosotros {
+  width: 100%;
+  height: 500px;
+  background-image: url("./imagenes/WhatsApp\ Image\ 2021-07-15\ at\ 14.20.19\ \(2\).jpeg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.marginbodyour {
+  padding: 2%;
+  background-image: url("./imagenes/WhatsApp\ Image\ 2021-07-15\ at\ 14.20.19\ \(3\)\ .jpeg");
+}
+
+.imagenaños {
+  width: 100%;
+  height: 500px;
+  background-image: url("./imagenes/laureles\ y\ aniv\ con\ letra1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+
+.our {
+  font-size: large;
+  margin: 3%;
+}
+
+.gitascontenedor {
+  display: grid;
+  grid-template-columns: repeat(5, 20%);
+  grid-template-rows: repeat(5, 20%);
+  gap: 5px;
+  margin: 5%;
+
+}
+
+.gitasitem {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 5;
+
+
+}
+
+.gitasitem1 {
+  grid-column-start: 5;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 1;
+  background-image: url("./imagenes/WhatsApp\ Image\ 2021-07-15\ at\ 14.28.06.jpeg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.gitasitem2 {
+  grid-column-start: 5;
+  grid-column-end: 5;
+  grid-row-start: 2;
+  grid-row-end: 2;
+}
+
+.gitasitem3 {
+  grid-column-start: 5;
+  grid-column-end: 5;
+  grid-row-start: 3;
+  grid-row-end: 3;
+}
+
+.gitasitem4 {
+  grid-column-start: 5;
+  grid-column-end: 5;
+  grid-row-start: 4;
+  grid-row-end: 4;
+}
+
+.gitasitem5 {
+  grid-column-start: 5;
+  grid-column-end: 5;
+  grid-row-start: 5;
+  grid-row-end: 5;
+}
+
+.imagevosotros {
+  width: 100%;
+  height: 190%;
+  background-size: cover;
+  background-image: url("./imagenes/WhatsApp\ Image\ 2021-07-15\ at\ 14.28.06.jpeg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  display: flex;
+  margin: 5%;
+
+}
+
+.ourtitle {
+  margin: 5px;
+  ;
+}
+
+.flexcontener {
+  display: flex;
+  gap: 2%;
 }
